@@ -1,0 +1,9 @@
+[-] Filtering
+[-] The details of the first item can not be seen
+[-] Loading more pages & resutls
+[-] Date problem at files which uploaded today
+[-] Next page & more items
+[+] Proxy support
+[+] Result count
+[-] Loading times at proxy
+[-] Item details (individual)
